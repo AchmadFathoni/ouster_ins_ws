@@ -1,0 +1,6 @@
+[submodule "inertial_sense_ros"]
+	path = inertial_sense_ros
+	url = git@github.com:AchmadFathoni/inertial-sense-ros.git
+[submodule "ouster-ros"]
+	path = ouster-ros
+	url = git@github.com:AchmadFathoni/ouster-ros.git
